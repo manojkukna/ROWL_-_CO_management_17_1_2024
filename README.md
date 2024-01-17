@@ -40,3 +40,11 @@ We will install packages using the below command. Run the below command where th
 
 pip install -r requirements.txt
 
+
+
+
+
+python varjan 3.8   up 
+Generate the requirements.txt File
+pip freeze > requirements.txt
+
